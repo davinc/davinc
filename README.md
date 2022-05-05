@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinay Chavan, CEO, Yapsody India.
 - 👀 I’m interested in anything related to creating new code.
-- 🌱 I’m currently learning SRE, DevOps, K8s etc.
+- 🌱 I’m currently learning SRE, DevOps, K8s, React Native etc.
 - 📫 How to reach me https://vinaychavan.com
 
 <!---
