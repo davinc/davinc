@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinay Chavan.
-- 👨🏻‍💻 Currently working as a CEO, Yapsody India.
+- 👨🏻‍💻 Currently working as an engineering, operations and business consultant.
 - 👀 I’m interested in anything related to creating new code, implementing new ideas.
 - 🌱 I’m actively working on setting up SRE practices and effective business processes across Yapsody India.
 - 💬 Ask me about Scrum, Processes, iOS Development, Design, CI/CD, GitHub, Testing Automation, Architecting Large Scale SaaS, People Experience Management, Running big development teams with standardized processes.
