@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vinay Chavan.
-- 👨🏻‍💻 Currently working as an engineering, operations and business consultant.
+- 👨🏻‍💻 Currently working as an engineering manager.
 - 👀 I’m interested in anything related to creating new code, implementing new ideas.
-- 🌱 I’m actively working on setting up SRE practices and effective business processes across Yapsody India.
 - 💬 Ask me about Scrum, Processes, iOS Development, Design, CI/CD, GitHub, Testing Automation, Architecting Large Scale SaaS, People Experience Management, Running big development teams with standardized processes.
 - 📫 How to reach me https://vinaychavan.com
 - LinkedIn : https://www.linkedin.com/in/vinaychavan/
