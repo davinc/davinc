@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinay Chavan.
-- 👨🏻‍💻 Currently working as an engineering manager.
+- 👨🏻‍💻 Currently working as a Director of Engineering @ Tata Digital - Commerce.
 - 👀 I’m interested in anything related to creating new code, implementing new ideas.
 - 💬 Ask me about Scrum, Processes, iOS Development, Design, CI/CD, GitHub, Testing Automation, Architecting Large Scale SaaS, People Experience Management, Running big development teams with standardized processes.
 - 📫 How to reach me https://vinaychavan.com
